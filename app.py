@@ -104,4 +104,5 @@ st.text("")
 
 # အောက်ခြေမှာ ခေါင်းစဥ်တစ်ခုပြသခြင်း
 st.markdown("#### Target vs Actual Analysis by Region")
+st.info("*Please swith **DARK MODE** at application setting/ ကျေးဇူးပြုပြီး Darkmode setting လေးပြောင်းပြီး ကြည့်ရှုပေးပါခင်ဗျာ*")
 st.pyplot(fig)
