@@ -19,7 +19,7 @@ This Streamlit app visualizes the performance of different regions by comparing 
 
 ## Demo
 
-![Table and Chart Preview](https://github.com/arkarpro/target_vs_actual/blob/main/preview.jpg)
+![Table and Chart Preview](https://github.com/arkarpro/target_vs_actual/blob/main/preview.jpeg)
 
 ---
 
